@@ -1,4 +1,4 @@
-module github.com/BurntSushi/go-sumtype
+module github.com/xuxinx/go-sumtype
 
 go 1.17
 
